@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "week": 1,
+    "type": "single_choice",
+    "question": "技术分析的核心假设之一是：",
+    "options": [
+      "市场行为包容一切",
+      "市场总是有效",
+      "价格完全随机",
+      "企业估值决定短期波动"
+    ],
+    "answer": "市场行为包容一切",
+    "explanation": "技术分析通常认为市场行为已经反映已知信息。",
+    "chapter_tag": "Chapter 1",
+    "skill_tag": "基础概念",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "week": 1,
+    "type": "single_choice",
+    "question": "技术分析最关注的核心变量通常不包括：",
+    "options": [
+      "价格",
+      "成交量",
+      "时间",
+      "管理层学历"
+    ],
+    "answer": "管理层学历",
+    "explanation": "技术分析更关注市场行为变量。",
+    "chapter_tag": "Chapter 1",
+    "skill_tag": "基础概念",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "week": 1,
+    "type": "single_choice",
+    "question": "技术分析与基本面分析相比，更偏重于：",
+    "options": [
+      "估值模型",
+      "市场行为与图表",
+      "审计报告",
+      "产业访谈"
+    ],
+    "answer": "市场行为与图表",
+    "explanation": "技术分析核心是看图表和市场行为。",
+    "chapter_tag": "Chapter 1",
+    "skill_tag": "概念区分",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "week": 2,
+    "type": "single_choice",
+    "question": "最能完整展示单日开高低收信息的是：",
+    "options": [
+      "线图",
+      "K线图",
+      "饼图",
+      "柱形百分比图"
+    ],
+    "answer": "K线图",
+    "explanation": "K线图包含开盘价、最高价、最低价、收盘价。",
+    "chapter_tag": "Chapter 2",
+    "skill_tag": "图表识别",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "week": 2,
+    "type": "single_choice",
+    "question": "周线图相比日线图通常：",
+    "options": [
+      "噪音更少",
+      "更适合秒级交易",
+      "波动更快",
+      "只适合期权"
+    ],
+    "answer": "噪音更少",
+    "explanation": "更长周期图表通常更平滑。",
+    "chapter_tag": "Chapter 2",
+    "skill_tag": "周期理解",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "week": 2,
+    "type": "single_choice",
+    "question": "如果只想看较大级别趋势，通常优先参考：",
+    "options": [
+      "分钟图",
+      "逐笔成交",
+      "周线/月线",
+      "盘口队列"
+    ],
+    "answer": "周线/月线",
+    "explanation": "大周期图更适合看中长期趋势。",
+    "chapter_tag": "Chapter 2",
+    "skill_tag": "图表应用",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "week": 3,
+    "type": "single_choice",
+    "question": "上升趋势的典型特征是：",
+    "options": [
+      "高点更低低点更低",
+      "高点更高低点更高",
+      "始终横盘",
+      "成交量始终为零"
+    ],
+    "answer": "高点更高低点更高",
+    "explanation": "上升趋势核心就是高低点逐步抬高。",
+    "chapter_tag": "Chapter 3",
+    "skill_tag": "趋势识别",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "week": 3,
+    "type": "single_choice",
+    "question": "支撑位通常指：",
+    "options": [
+      "价格容易得到买盘承接的位置",
+      "价格一定上涨的位置",
+      "必然跌破的位置",
+      "没有成交量的位置"
+    ],
+    "answer": "价格容易得到买盘承接的位置",
+    "explanation": "支撑位是常见承接区域。",
+    "chapter_tag": "Chapter 3",
+    "skill_tag": "支撑阻力",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "week": 3,
+    "type": "single_choice",
+    "question": "阻力位有效突破后，原阻力位常常可能转化为：",
+    "options": [
+      "新的支撑位",
+      "新的财报",
+      "新的估值",
+      "新的行业分类"
+    ],
+    "answer": "新的支撑位",
+    "explanation": "阻力转支撑是经典技术分析逻辑。",
+    "chapter_tag": "Chapter 3",
+    "skill_tag": "支撑阻力",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "week": 4,
+    "type": "single_choice",
+    "question": "头肩顶通常被认为是：",
+    "options": [
+      "持续形态",
+      "反转形态",
+      "无意义形态",
+      "成交量模型"
+    ],
+    "answer": "反转形态",
+    "explanation": "头肩顶常提示趋势反转风险。",
+    "chapter_tag": "Chapter 4",
+    "skill_tag": "形态识别",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "week": 4,
+    "type": "single_choice",
+    "question": "双底通常更可能意味着：",
+    "options": [
+      "潜在底部构筑",
+      "下跌加速",
+      "市场休市",
+      "量能消失"
+    ],
+    "answer": "潜在底部构筑",
+    "explanation": "双底是常见底部反转结构。",
+    "chapter_tag": "Chapter 4",
+    "skill_tag": "形态识别",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "week": 4,
+    "type": "single_choice",
+    "question": "反转形态成立通常更需要结合：",
+    "options": [
+      "突破与量能确认",
+      "随机猜测",
+      "社交媒体热度",
+      "Logo设计"
+    ],
+    "answer": "突破与量能确认",
+    "explanation": "价格确认和量能配合能增强形态可信度。",
+    "chapter_tag": "Chapter 4",
+    "skill_tag": "形态确认",
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "week": 5,
+    "type": "single_choice",
+    "question": "三角形、旗形、矩形通常被归为：",
+    "options": [
+      "反转形态",
+      "持续形态",
+      "财务形态",
+      "宏观形态"
+    ],
+    "answer": "持续形态",
+    "explanation": "这些多为趋势中的整理结构。",
+    "chapter_tag": "Chapter 5",
+    "skill_tag": "形态分类",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "week": 5,
+    "type": "single_choice",
+    "question": "持续形态整理结束后，价格更常见的行为是：",
+    "options": [
+      "继续原趋势运行",
+      "立刻停止波动",
+      "强制反转",
+      "与趋势无关"
+    ],
+    "answer": "继续原趋势运行",
+    "explanation": "持续形态本质是中继整理。",
+    "chapter_tag": "Chapter 5",
+    "skill_tag": "趋势延续",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "week": 5,
+    "type": "single_choice",
+    "question": "旗形常常出现在：",
+    "options": [
+      "强趋势后的短暂整理",
+      "长期无波动阶段",
+      "公司年会之后",
+      "指数编制日"
+    ],
+    "answer": "强趋势后的短暂整理",
+    "explanation": "旗形是常见中继整理形态。",
+    "chapter_tag": "Chapter 5",
+    "skill_tag": "图形理解",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "week": 6,
+    "type": "single_choice",
+    "question": "放量突破通常意味着：",
+    "options": [
+      "突破可信度更高",
+      "必然失败",
+      "一定回落",
+      "与趋势无关"
+    ],
+    "answer": "突破可信度更高",
+    "explanation": "放量通常增强突破有效性。",
+    "chapter_tag": "Chapter 6",
+    "skill_tag": "量价分析",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "week": 6,
+    "type": "single_choice",
+    "question": "价升量增通常说明：",
+    "options": [
+      "上涨更容易获得确认",
+      "上涨一定结束",
+      "价格一定跌停",
+      "市场失去流动性"
+    ],
+    "answer": "上涨更容易获得确认",
+    "explanation": "价升量增多被视作趋势健康。",
+    "chapter_tag": "Chapter 6",
+    "skill_tag": "量价关系",
+    "difficulty": "easy"
+  },
+  {
+    "id": 18,
+    "week": 6,
+    "type": "single_choice",
+    "question": "缩量回调在强趋势中通常更可能被理解为：",
+    "options": [
+      "相对温和的整理",
+      "趋势彻底结束",
+      "市场停牌",
+      "系统失效"
+    ],
+    "answer": "相对温和的整理",
+    "explanation": "缩量回调常代表抛压有限。",
+    "chapter_tag": "Chapter 6",
+    "skill_tag": "量价分析",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "week": 7,
+    "type": "single_choice",
+    "question": "短期均线上穿长期均线通常称为：",
+    "options": [
+      "金叉",
+      "死叉",
+      "缺口",
+      "背离"
+    ],
+    "answer": "金叉",
+    "explanation": "短期均线上穿长期均线一般称为金叉。",
+    "chapter_tag": "Chapter 7",
+    "skill_tag": "均线系统",
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "week": 7,
+    "type": "single_choice",
+    "question": "均线多头排列通常意味着：",
+    "options": [
+      "趋势偏强",
+      "趋势偏弱",
+      "无波动",
+      "必然见顶"
+    ],
+    "answer": "趋势偏强",
+    "explanation": "多头排列反映较强趋势。",
+    "chapter_tag": "Chapter 7",
+    "skill_tag": "均线系统",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "week": 7,
+    "type": "single_choice",
+    "question": "EMA 相较普通 MA 的常见特点是：",
+    "options": [
+      "对新价格更敏感",
+      "永远更平滑",
+      "不能看趋势",
+      "不依赖价格"
+    ],
+    "answer": "对新价格更敏感",
+    "explanation": "EMA 对近期价格赋予更高权重。",
+    "chapter_tag": "Chapter 7",
+    "skill_tag": "指标理解",
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "week": 8,
+    "type": "single_choice",
+    "question": "MACD 常见用途之一是：",
+    "options": [
+      "判断趋势和动能变化",
+      "直接代替财报",
+      "决定税率",
+      "预测GDP"
+    ],
+    "answer": "判断趋势和动能变化",
+    "explanation": "MACD 是常见趋势动能指标。",
+    "chapter_tag": "Chapter 8",
+    "skill_tag": "指标理解",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "week": 8,
+    "type": "single_choice",
+    "question": "RSI 常用于观察：",
+    "options": [
+      "超买超卖",
+      "企业治理",
+      "行业竞争格局",
+      "宏观利差"
+    ],
+    "answer": "超买超卖",
+    "explanation": "RSI 常用于判断超买超卖区。",
+    "chapter_tag": "Chapter 8",
+    "skill_tag": "指标应用",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "week": 8,
+    "type": "single_choice",
+    "question": "价格创新高而指标未创新高，常被称为：",
+    "options": [
+      "背离",
+      "跳空",
+      "吞没",
+      "反包"
+    ],
+    "answer": "背离",
+    "explanation": "价格与指标不一致时常被称作背离。",
+    "chapter_tag": "Chapter 8",
+    "skill_tag": "背离识别",
+    "difficulty": "medium"
+  },
+  {
+    "id": 25,
+    "week": 9,
+    "type": "single_choice",
+    "question": "十字星常表示：",
+    "options": [
+      "多空犹豫",
+      "绝对上涨",
+      "绝对下跌",
+      "必然反转"
+    ],
+    "answer": "多空犹豫",
+    "explanation": "十字星常表示多空力量暂时均衡。",
+    "chapter_tag": "Chapter 9",
+    "skill_tag": "K线识别",
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "week": 9,
+    "type": "single_choice",
+    "question": "锤头线若出现在下跌末端，通常更值得关注为：",
+    "options": [
+      "潜在反转信号",
+      "下跌确认",
+      "停牌信号",
+      "会计信号"
+    ],
+    "answer": "潜在反转信号",
+    "explanation": "锤头线在低位可能代表承接增强。",
+    "chapter_tag": "Chapter 9",
+    "skill_tag": "K线识别",
+    "difficulty": "easy"
+  },
+  {
+    "id": 27,
+    "week": 9,
+    "type": "single_choice",
+    "question": "吞没形态强调：",
+    "options": [
+      "后一根K线实体对前一根形成反向覆盖",
+      "价格不动",
+      "量能消失",
+      "均线失效"
+    ],
+    "answer": "后一根K线实体对前一根形成反向覆盖",
+    "explanation": "吞没形态关键在覆盖关系。",
+    "chapter_tag": "Chapter 9",
+    "skill_tag": "K线组合",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "week": 10,
+    "type": "single_choice",
+    "question": "市场间分析强调：",
+    "options": [
+      "不同市场并非孤立",
+      "股票和利率没关系",
+      "商品和汇率无关",
+      "只看单一股票即可"
+    ],
+    "answer": "不同市场并非孤立",
+    "explanation": "市场间分析关注跨市场联动。",
+    "chapter_tag": "Chapter 10",
+    "skill_tag": "宏观关联",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "week": 10,
+    "type": "single_choice",
+    "question": "风险偏好下降时，常见现象之一是：",
+    "options": [
+      "避险资产受关注",
+      "所有高Beta板块更强",
+      "波动率永远下降",
+      "技术图形失效"
+    ],
+    "answer": "避险资产受关注",
+    "explanation": "风险偏好下降常带来避险需求上升。",
+    "chapter_tag": "Chapter 10",
+    "skill_tag": "风险偏好",
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "week": 10,
+    "type": "single_choice",
+    "question": "市场间分析的重要价值之一是：",
+    "options": [
+      "提供更完整的背景框架",
+      "100%预测未来",
+      "替代所有图表",
+      "取代风险管理"
+    ],
+    "answer": "提供更完整的背景框架",
+    "explanation": "它帮助建立更完整的观察体系。",
+    "chapter_tag": "Chapter 10",
+    "skill_tag": "综合理解",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "week": 11,
+    "type": "single_choice",
+    "question": "相对强弱更强的板块通常意味着：",
+    "options": [
+      "其表现跑赢基准或其他板块",
+      "它一定最便宜",
+      "它没有风险",
+      "它没有成交量"
+    ],
+    "answer": "其表现跑赢基准或其他板块",
+    "explanation": "相对强弱看的是比较表现。",
+    "chapter_tag": "Chapter 11",
+    "skill_tag": "相对强弱",
+    "difficulty": "easy"
+  },
+  {
+    "id": 32,
+    "week": 11,
+    "type": "single_choice",
+    "question": "板块轮动强调：",
+    "options": [
+      "市场热点会切换",
+      "所有板块永远同步",
+      "所有行业同时见顶",
+      "轮动只存在于基本面"
+    ],
+    "answer": "市场热点会切换",
+    "explanation": "板块轮动反映市场偏好的变化。",
+    "chapter_tag": "Chapter 11",
+    "skill_tag": "板块轮动",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "week": 11,
+    "type": "single_choice",
+    "question": "观察龙头股和强势板块的意义之一在于：",
+    "options": [
+      "帮助理解市场主线",
+      "保证无风险收益",
+      "替代止损",
+      "无需考虑趋势"
+    ],
+    "answer": "帮助理解市场主线",
+    "explanation": "强势板块和龙头股常反映阶段主线。",
+    "chapter_tag": "Chapter 11",
+    "skill_tag": "结构观察",
+    "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "week": 12,
+    "type": "single_choice",
+    "question": "综合技术分析中，更合理的做法通常是：",
+    "options": [
+      "趋势、形态、量能、指标结合判断",
+      "只看单一指标",
+      "只凭感觉",
+      "只看一根K线"
+    ],
+    "answer": "趋势、形态、量能、指标结合判断",
+    "explanation": "综合判断更稳健。",
+    "chapter_tag": "Chapter 12",
+    "skill_tag": "综合判断",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "week": 12,
+    "type": "single_choice",
+    "question": "写技术分析结论时，较好的表达方式是：",
+    "options": [
+      "趋势、关键位、量能、指标、风险点都说明",
+      "只写我觉得会涨",
+      "只写今天收红",
+      "只写别人观点"
+    ],
+    "answer": "趋势、关键位、量能、指标、风险点都说明",
+    "explanation": "结构化表达更清晰专业。",
+    "chapter_tag": "Chapter 12",
+    "skill_tag": "分析表达",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "week": 12,
+    "type": "single_choice",
+    "question": "技术分析实战中，风险管理的重要性：",
+    "options": [
+      "非常重要",
+      "不重要",
+      "只对机构重要",
+      "只在熊市重要"
+    ],
+    "answer": "非常重要",
+    "explanation": "任何分析方法都不能代替风险管理。",
+    "chapter_tag": "Chapter 12",
+    "skill_tag": "风险意识",
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Trend + Support/Resistance",
+    "prompt": "请用 80~120 字，描述：价格处于上升趋势，回调不破前低，前方临近阻力位。",
+    "keywords": [
+      "上升趋势",
+      "阻力位",
+      "回调",
+      "风险",
+      "关注"
+    ],
+    "chapter_tag": "Chapter 3",
+    "skill_tag": "趋势表达"
+  },
+  {
+    "id": 2,
+    "title": "Volume + Breakout",
+    "prompt": "请用 80~120 字，描述：价格放量突破平台，短线偏强，但也要提示追高风险。",
+    "keywords": [
+      "放量突破",
+      "偏强",
+      "平台",
+      "追高风险",
+      "确认"
+    ],
+    "chapter_tag": "Chapter 6",
+    "skill_tag": "量价表达"
+  },
+  {
+    "id": 3,
+    "title": "MA + MACD",
+    "prompt": "请用 80~120 字，描述：均线多头排列，MACD 金叉，整体趋势偏强。",
+    "keywords": [
+      "均线多头排列",
+      "MACD金叉",
+      "趋势偏强",
+      "回踩",
+      "观察"
+    ],
+    "chapter_tag": "Chapter 8",
+    "skill_tag": "指标表达"
+  },
+  {
+    "id": 4,
+    "title": "Comprehensive Technical Commentary",
+    "prompt": "请用 100~150 字，写一段完整技术点评：趋势向上、量能配合、指标偏强，但前高附近仍有压力。",
+    "keywords": [
+      "趋势向上",
+      "量能配合",
+      "指标偏强",
+      "前高压力",
+      "风险控制"
+    ],
+    "chapter_tag": "Chapter 12",
+    "skill_tag": "综合表达"
+  }
+]

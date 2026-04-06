@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "week": 3,
+    "title": "Higher Highs and Higher Lows",
+    "description": "价格不断创出更高高点和更高低点，回调不破前低。",
+    "question": "该图最可能属于哪种市场状态？",
+    "options": [
+      "上升趋势",
+      "下降趋势",
+      "横盘整理",
+      "头肩顶"
+    ],
+    "answer": "上升趋势",
+    "explanation": "高点抬高、低点抬高是上升趋势定义。",
+    "chapter_tag": "Chapter 3",
+    "skill_tag": "趋势识别"
+  },
+  {
+    "id": 2,
+    "week": 4,
+    "title": "Head and Shoulders Pattern",
+    "description": "图形中间顶部最高，两边次高，颈线附近多次确认。",
+    "question": "该图最可能是哪种形态？",
+    "options": [
+      "双底",
+      "头肩顶",
+      "旗形",
+      "矩形整理"
+    ],
+    "answer": "头肩顶",
+    "explanation": "中间高、两侧低的顶部结构是头肩顶典型特征。",
+    "chapter_tag": "Chapter 4",
+    "skill_tag": "形态识别"
+  },
+  {
+    "id": 3,
+    "week": 5,
+    "title": "Triangle Consolidation",
+    "description": "高点不断下移，低点不断上移，价格逐步收敛。",
+    "question": "该图最可能属于哪类结构？",
+    "options": [
+      "持续形态",
+      "反转形态",
+      "缺口形态",
+      "随机波动"
+    ],
+    "answer": "持续形态",
+    "explanation": "三角形一般作为持续整理结构出现较多。",
+    "chapter_tag": "Chapter 5",
+    "skill_tag": "图形分类"
+  },
+  {
+    "id": 4,
+    "week": 6,
+    "title": "Volume Breakout",
+    "description": "价格突破前高，同时成交量明显放大。",
+    "question": "这种情况更常见的解释是？",
+    "options": [
+      "突破可信度提高",
+      "突破失败概率上升",
+      "趋势无效",
+      "必须立即反转"
+    ],
+    "answer": "突破可信度提高",
+    "explanation": "放量突破通常增强确认度。",
+    "chapter_tag": "Chapter 6",
+    "skill_tag": "量价分析"
+  },
+  {
+    "id": 5,
+    "week": 7,
+    "title": "Golden Cross",
+    "description": "短期均线向上突破长期均线，同时价格站上主要均线。",
+    "question": "这通常被称为：",
+    "options": [
+      "死叉",
+      "背离",
+      "金叉",
+      "跳空"
+    ],
+    "answer": "金叉",
+    "explanation": "短期均线上穿长期均线一般称金叉。",
+    "chapter_tag": "Chapter 7",
+    "skill_tag": "均线识别"
+  },
+  {
+    "id": 6,
+    "week": 8,
+    "title": "MACD Divergence",
+    "description": "价格创新高，但 MACD 柱体或 DIF 并未同步创新高。",
+    "question": "这通常被称为：",
+    "options": [
+      "背离",
+      "吞没",
+      "反包",
+      "缺口"
+    ],
+    "answer": "背离",
+    "explanation": "价格和指标不同步，属于背离。",
+    "chapter_tag": "Chapter 8",
+    "skill_tag": "指标判断"
+  },
+  {
+    "id": 7,
+    "week": 9,
+    "title": "Hammer Candle",
+    "description": "实体较小，下影线明显较长，出现在连续下跌之后。",
+    "question": "该 K 线更可能是：",
+    "options": [
+      "十字星",
+      "锤头线",
+      "大阴线",
+      "黄昏星"
+    ],
+    "answer": "锤头线",
+    "explanation": "长下影、小实体、低位出现是锤头线常见特征。",
+    "chapter_tag": "Chapter 9",
+    "skill_tag": "K线识别"
+  },
+  {
+    "id": 8,
+    "week": 12,
+    "title": "Comprehensive Reading",
+    "description": "图中价格处于上升趋势，均线多头排列，放量突破平台，MACD 零轴上方金叉。",
+    "question": "整体技术状态更可能是：",
+    "options": [
+      "偏强",
+      "偏弱",
+      "见顶",
+      "无法判断"
+    ],
+    "answer": "偏强",
+    "explanation": "趋势、均线、量能、指标同时偏强时，整体技术状态通常偏强。",
+    "chapter_tag": "Chapter 12",
+    "skill_tag": "综合判断"
+  }
+]

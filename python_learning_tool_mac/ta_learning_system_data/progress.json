@@ -1,0 +1,414 @@
+{
+  "current_week": 1,
+  "question_stats": {
+    "1": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "2": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "3": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "4": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "5": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "6": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "7": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "8": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "9": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "10": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "11": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "12": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "13": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "14": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "15": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "16": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "17": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "18": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "19": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "20": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "21": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "22": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "23": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "24": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "25": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "26": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "27": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "28": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "29": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "30": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "31": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "32": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "33": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "34": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "35": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "36": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    }
+  },
+  "chart_stats": {
+    "1": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "2": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "3": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "4": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "5": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "6": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "7": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    },
+    "8": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0,
+      "wrong_count": 0,
+      "status": "normal"
+    }
+  },
+  "weekly_status": {
+    "1": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "2": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "3": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "4": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "5": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "6": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "7": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "8": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "9": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "10": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "11": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    },
+    "12": {
+      "lesson_completed": false,
+      "practice_done": 0,
+      "chart_training_done": 0,
+      "writing_done": 0,
+      "exam_taken": false,
+      "best_score": null
+    }
+  },
+  "last_study_time": null
+}

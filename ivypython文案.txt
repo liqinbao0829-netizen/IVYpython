@@ -1,0 +1,14 @@
+
+
+
+streamlit run final_app_pro_fixed.py
+
+
+
+streamlit run app.py
+
+
+
+
+cd C:\Users\Ivysf\IVYpython\python_learning_tool_mac
+

@@ -1,0 +1,174 @@
+[
+  {
+    "week": 1,
+    "title": "Technical Analysis Introduction",
+    "title_cn": "技术分析入门",
+    "chapter_tag": "Chapter 1",
+    "focus_points": [
+      "What is technical analysis",
+      "Technical analysis vs fundamental analysis",
+      "Market action discounts everything",
+      "Price, volume, time"
+    ],
+    "summary": "理解技术分析的基本框架与市场行为分析逻辑。",
+    "recommended_exam": "Week 1 Quiz"
+  },
+  {
+    "week": 2,
+    "title": "Chart Basics",
+    "title_cn": "图表基础",
+    "chapter_tag": "Chapter 2",
+    "focus_points": [
+      "Line chart",
+      "Bar chart",
+      "Candlestick chart",
+      "Timeframes: daily, weekly, monthly"
+    ],
+    "summary": "掌握线图、柱状图、K线图以及时间周期的基础认知。",
+    "recommended_exam": "Week 2 Quiz"
+  },
+  {
+    "week": 3,
+    "title": "Trend Theory",
+    "title_cn": "趋势理论",
+    "chapter_tag": "Chapter 3",
+    "focus_points": [
+      "Uptrend",
+      "Downtrend",
+      "Sideways market",
+      "Trendline",
+      "Support and resistance"
+    ],
+    "summary": "建立趋势识别、支撑阻力与趋势线的判断能力。",
+    "recommended_exam": "Week 3 Quiz"
+  },
+  {
+    "week": 4,
+    "title": "Reversal Patterns",
+    "title_cn": "反转形态",
+    "chapter_tag": "Chapter 4",
+    "focus_points": [
+      "Head and shoulders",
+      "Double top",
+      "Double bottom",
+      "Rounding patterns"
+    ],
+    "summary": "识别常见反转形态与市场拐点信号。",
+    "recommended_exam": "Week 4 Quiz"
+  },
+  {
+    "week": 5,
+    "title": "Continuation Patterns",
+    "title_cn": "持续形态",
+    "chapter_tag": "Chapter 5",
+    "focus_points": [
+      "Triangle",
+      "Flag",
+      "Wedge",
+      "Rectangle"
+    ],
+    "summary": "理解趋势中的整理结构与再突破逻辑。",
+    "recommended_exam": "Week 5 Quiz"
+  },
+  {
+    "week": 6,
+    "title": "Volume Analysis",
+    "title_cn": "成交量分析",
+    "chapter_tag": "Chapter 6",
+    "focus_points": [
+      "Volume confirms trend",
+      "Breakout with volume",
+      "Low-volume consolidation",
+      "Price-volume relationship"
+    ],
+    "summary": "学会用成交量去验证价格行为与趋势强弱。",
+    "recommended_exam": "Week 6 Quiz"
+  },
+  {
+    "week": 7,
+    "title": "Moving Averages",
+    "title_cn": "移动平均线",
+    "chapter_tag": "Chapter 7",
+    "focus_points": [
+      "MA",
+      "EMA",
+      "Golden cross",
+      "Death cross",
+      "Bullish alignment / Bearish alignment"
+    ],
+    "summary": "掌握均线系统与趋势辅助判断方法。",
+    "recommended_exam": "Week 7 Quiz"
+  },
+  {
+    "week": 8,
+    "title": "Oscillators and Indicators",
+    "title_cn": "摆动指标与技术指标",
+    "chapter_tag": "Chapter 8",
+    "focus_points": [
+      "MACD",
+      "RSI",
+      "KDJ / Stochastic",
+      "Overbought / oversold",
+      "Divergence"
+    ],
+    "summary": "理解主要技术指标的用途、读法和误区。",
+    "recommended_exam": "Week 8 Quiz"
+  },
+  {
+    "week": 9,
+    "title": "Candlestick Analysis",
+    "title_cn": "K线分析",
+    "chapter_tag": "Chapter 9",
+    "focus_points": [
+      "Doji",
+      "Hammer",
+      "Engulfing",
+      "Morning star",
+      "Evening star"
+    ],
+    "summary": "学习K线语言与经典蜡烛图组合。",
+    "recommended_exam": "Week 9 Quiz"
+  },
+  {
+    "week": 10,
+    "title": "Intermarket Analysis",
+    "title_cn": "市场间分析",
+    "chapter_tag": "Chapter 10",
+    "focus_points": [
+      "Stocks, bonds, commodities",
+      "Interest rates",
+      "Currency relationship",
+      "Risk-on / risk-off"
+    ],
+    "summary": "理解不同金融市场之间的联动与影响。",
+    "recommended_exam": "Week 10 Quiz"
+  },
+  {
+    "week": 11,
+    "title": "Sector Rotation and Relative Strength",
+    "title_cn": "板块轮动与相对强弱",
+    "chapter_tag": "Chapter 11",
+    "focus_points": [
+      "Sector rotation",
+      "Relative strength",
+      "Leadership stocks",
+      "Style rotation"
+    ],
+    "summary": "建立板块轮动与强弱比较的基本框架。",
+    "recommended_exam": "Week 11 Quiz"
+  },
+  {
+    "week": 12,
+    "title": "Comprehensive Technical Analysis",
+    "title_cn": "综合技术分析实战",
+    "chapter_tag": "Chapter 12",
+    "focus_points": [
+      "Trend + pattern + volume + indicator",
+      "Full chart reading",
+      "Technical commentary writing",
+      "Risk / opportunity assessment"
+    ],
+    "summary": "整合前面所有模块，形成完整的技术分析表达能力。",
+    "recommended_exam": "Final Simulation"
+  }
+]
